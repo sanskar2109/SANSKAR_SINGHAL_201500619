@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412205194413",
+    "project_id": "crudapp-983a3",
+    "storage_bucket": "crudapp-983a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412205194413:android:c5f9c8b62ea4586dcf3a24",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412205194413-b6li7fkfuo6pfrej4e8i383h1dd14gg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRX7ynCZbS4Q_jI23Jmz59_TDqp09v2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412205194413-b6li7fkfuo6pfrej4e8i383h1dd14gg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
